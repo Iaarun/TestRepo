@@ -6,6 +6,9 @@ public class DemoClass {
 		System.out.println("Hello world!!");
 		NewClass nc = new NewClass();
 		nc.testrun2();
+    System.out.println("Hello world22222!!");
+
+
 	}
 	
 	
