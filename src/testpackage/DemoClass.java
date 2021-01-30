@@ -6,5 +6,10 @@ public class DemoClass {
 		System.out.println("Hello world!!");
 
 	}
+	
+	
+	public void testrun () {
+		System.out.println("I am inside testmethod");
+	}
 
 }
